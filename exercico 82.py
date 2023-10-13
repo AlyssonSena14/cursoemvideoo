@@ -14,6 +14,7 @@ for i, v in enumerate(lista):
 print(f'A lista completa é {lista}')
 print(f'A lista de números pares e {pares}')
 print(f'A lista de numeros ímpares é {impares}')
+print('novo git')
 
 
 
